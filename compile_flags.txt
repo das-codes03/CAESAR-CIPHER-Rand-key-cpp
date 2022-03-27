@@ -1,0 +1,12 @@
+-Ic:\program
+-IC:\Users\argha\Documents\CppPractice\FirstProject
+-Ic:\program files\mingw64\include\c++\11.2.0
+-Ic:\program files\mingw64\include\c++\11.2.0\x86_64-w64-mingw32
+-Ic:\program files\mingw64\include\c++\11.2.0\backward
+-Ic:\program files\mingw64\lib\gcc\x86_64-w64-mingw32\11.2.0\include
+-Ic:\program files\mingw64\include
+-Ic:\program files\mingw64\lib\gcc\x86_64-w64-mingw32\11.2.0\include-fixed
+-Ic:\program files\mingw64\x86_64-w64-mingw32\include
+-std=c++17
+-target
+x86_64-pc-windows-gnu
