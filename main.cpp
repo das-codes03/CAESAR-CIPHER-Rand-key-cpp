@@ -11,6 +11,9 @@
 
 using namespace std;
 
+void Encrypt_msg(string);
+void Decrypt_msg(string, string);
+
 void Encrypt_msg(string originalMsg)
 {
     string alphabet {};
